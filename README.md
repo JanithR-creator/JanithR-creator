@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Janith Ranasinghe</h1>
-<h3 align="center">A passionate database designer from Sri-Lanka</h3>
+<h2>Well, hello there👋</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janithr-creator&label=Profile%20views&color=0e75b6&style=flat" alt="janithr-creator" /> </p>
 
