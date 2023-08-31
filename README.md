@@ -8,4 +8,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janithr-creator&show_icons=true&locale=en" alt="janithr-creator" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janithr-creator&" alt="janithr-creator" /></p>
+
