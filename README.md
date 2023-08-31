@@ -1,7 +1,5 @@
 <h2>Well, hello there👋</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janithr-creator&label=Profile%20views&color=0e75b6&style=flat" alt="janithr-creator" /> </p>
-
 - 🌱 I’m currently learning **Python, SQL**
 
 - 📫 How to reach me **janithraditha@gmail.com**
