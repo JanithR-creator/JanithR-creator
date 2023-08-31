@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Janith Ranasinghe</h1>
 <h3 align="center">A passionate database designer from Sri-Lanka</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.pinterest.com/pin/pinterest--3113817617341862/07](https://i.gifer.com/3Eqa.gif)">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3Eqa.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janithr-creator&label=Profile%20views&color=0e75b6&style=flat" alt="janithr-creator" /> </p>
 
