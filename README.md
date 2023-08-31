@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Janith Ranasinghe</h1>
 <h3 align="center">A passionate database designer from Sri-Lanka</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/3Eqa.gi](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)f">
+<img align="right" alt="Coding" width="400" src="[[https://i.gifer.com/3Eqa.gi](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)f](https://images.idgesg.net/images/article/2020/09/hands_of_robot_and_human_touch_amid_virtual_networked_connections_circuits_binary_code_digital_identity_artificial_intelligence_machine_learning_innovation_future_by_ipopba_gettyimages-1206796363_2400x1600-100858181-large.jpg?auto=webp&quality=85,70)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janithr-creator&label=Profile%20views&color=0e75b6&style=flat" alt="janithr-creator" /> </p>
 
