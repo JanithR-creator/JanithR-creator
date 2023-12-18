@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Janith Ranasinghe</h1>
+<h1 align="center">Hello there👋,</h1>
 <h3 align="center">I'm so excited to seek new things, gather knowledge, and share them with others.</h3>
 
 ---
