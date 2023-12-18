@@ -29,7 +29,8 @@
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
-  
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=janithr-creator&show_icons=true&include_all_commits=true&theme=dark" alt="GitHub stats" />
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=janithr-creator&theme=dark&hide_border=true" />
 
 </td>
