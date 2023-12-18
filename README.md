@@ -2,7 +2,7 @@
 <h3 align="center">I'm so excited to seek new things, gather knowledge, and share them with others.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janithr-creator&label=Profile%20views&color=0e75b6&style=flat" alt="janithr-creator" /> </p>
-
+---
 - 🌱 I’m currently learning **java, javafx, figma**
 
 - 📫 How to reach me **janithraditha@gmail.com**
