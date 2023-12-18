@@ -1,5 +1,4 @@
 <h1 align="left">Hello there👋,</h1>
-<h3 align="center">I'm so excited to seek new things, gather knowledge, and share them with others.</h3>
 
 ---
 
