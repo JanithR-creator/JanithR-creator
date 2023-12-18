@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janithr-creator&label=Profile%20views&color=0e75b6&style=flat" alt="janithr-creator" /> </p>
 
-- 🌱 I’m currently learning **Python, SQL**
+- 🌱 I’m currently learning **java, javafx, figma**
 
-- 📫 How to reach me **janithraditha@gmail,com**
+- 📫 How to reach me **janithraditha@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
