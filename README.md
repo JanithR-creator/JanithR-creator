@@ -1,7 +1,5 @@
 ## Well, hello there👋
 
----
-
 <p align="center">
 	<a href="https://github.com/JanithR-creator">
 		<img src="https://komarev.com/ghpvc/?username=janithr-creator&label=Profile%20views&color=0e75b6&style=flat" alt="janithr-creator" />
