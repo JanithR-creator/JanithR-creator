@@ -14,7 +14,7 @@
 
 ---
 
-- 🌱 I’m currently learning **java, js, ts, angular**
+- 🌱 I’m currently learning **js, ts, react, next.js**
 
 - 📫 How to reach me **janithraditha@gmail.com**
 
