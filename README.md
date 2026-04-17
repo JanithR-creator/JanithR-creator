@@ -2,39 +2,57 @@
 
 🚀 **Associate Software Engineer | Backend & DevOps Enthusiast**
 
+<br/>
+
 ## 💡 About Me
 
-* 💻 Associate Software Engineer with hands-on experience in **.NET, Java, React**
-* ⚙️ Currently focused on **Microservices, Docker, Kubernetes & DevOps**
-* 🧠 Strong foundation in **System Design, OOP, SOLID, DBMS & CAP Theorem**
-* 🏗️ Building scalable systems using **event-driven architecture (Kafka, Redis, PostgreSQL)**
-* ✍️ I write technical blogs on **Medium** to share what I learn
+* 💻 Associate Software Engineer with experience in **.NET, Java, React**
+* ⚙️ Focused on **Microservices, Docker, Kubernetes & DevOps**
+* 🏗️ Building scalable systems using **Kafka, Redis, PostgreSQL**
+* 🎯 Aspiring **Software Architect** passionate about designing scalable and reliable systems
+* ✍️ Writing technical blogs on Medium
+
+<br/>
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
 
-C# • Java • JavaScript • TypeScript
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,js,ts" />
+</p>
 
 ### ⚙️ Backend
 
-ASP.NET Core • Spring Boot • Node.js
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs" />
+</p>
 
 ### 🎨 Frontend
 
-React • Next.js • Vue • Angular
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular" />
+</p>
 
 ### 🗄️ Databases
 
-MySQL • PostgreSQL • MSSQL • Redis
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+</p>
 
 ### ☁️ DevOps & Cloud
 
-Docker • Kubernetes • Azure • CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure" />
+</p>
 
 ### 🔗 Messaging & Tools
 
-Kafka • RabbitMQ • Git • Linux
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,git,linux" />
+</p>
+
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -47,11 +65,13 @@ Kafka • RabbitMQ • Git • Linux
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janithr-creator&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
+<br/>
+
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/janith-ranasinghe-b78521261">LinkedIn</a> •
-  <a href="https://medium.com/@janithraditha">Medium</a> •
-  <a href="mailto:janithraditha@gmail.com">Email</a> •
-  <a href="https://stackoverflow.com/users/23111041">StackOverflow</a>
+  <a href="https://linkedin.com/in/janith-ranasinghe-b78521261"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://medium.com/@janithraditha"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="40" style="filter: invert(1);" /></a>
+  <a href="mailto:janithraditha@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://stackoverflow.com/users/23111041"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40" /></a>
 </p>
