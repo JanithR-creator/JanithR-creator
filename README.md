@@ -10,16 +10,6 @@
 * 🏗️ Building scalable systems using **event-driven architecture (Kafka, Redis, PostgreSQL)**
 * ✍️ I write technical blogs on **Medium** to share what I learn
 
-## 🔥 What I'm Working On
-
-* 🚧 Designing a **Notification Service** using:
-
-  * ASP.NET Clean Architecture
-  * Kafka (event-driven design)
-  * Redis (idempotency & caching)
-  * Firebase Cloud Messaging
-  * Azure Communication Services
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
